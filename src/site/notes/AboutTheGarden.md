@@ -1,5 +1,5 @@
 ---
-{"comments":true,"date created":"2022-08-06","date modified":"2022-11-12","id":"home","layout":"page","permalink":"/about-the-garden/","tags":["本库教程","gardenEntry"],"title":"AboutTheGarden","description":"上面这些字段，大多是为了适配第三方发布方案，如hugo和jekyll。","repeat":"daily","due_at":"2022-11-12T19:30:22.381+08:00","dg-home":true,"dg-publish":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/about-the-garden/","tags":["本库教程","gardenEntry"]}
 ---
 
 
